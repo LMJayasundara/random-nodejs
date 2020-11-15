@@ -1,0 +1,28 @@
+{
+  "name": "random-nodejs",
+  "version": "1.0.8",
+  "description": "A simple and flexible npm library that creates various type of Random Numbers.",
+  "main": "src/random.js",
+  "bin": "src/random.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMJayasundara/random-nodejs.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generator",
+    "js",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "J.M.L.Jayasundara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LMJayasundara/random-nodejs/issues"
+  },
+  "homepage": "https://github.com/LMJayasundara/random-nodejs#readme"
+}
