@@ -1,6 +1,6 @@
 {
   "name": "random-nodejs",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A simple and flexible npm library that creates various type of Random Numbers.",
   "main": "src/random.js",
   "bin": "src/random.js",
@@ -14,6 +14,9 @@
   "keywords": [
     "random",
     "number",
+    "string",
+    "word",
+    "char",
     "generator",
     "js",
     "javascript",
