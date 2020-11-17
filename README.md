@@ -123,7 +123,7 @@ Return, Random numbers inside the user-defined array of numbers.
 ```
 const arr = ([1, 2, 3, 4]);
 
-random.option(arr);           // Ex. output 3, 1, 4, 1, 2
+rand.option(arr);           // Ex. output 3, 1, 4, 1, 2
 ```
 <br />
 <br />
